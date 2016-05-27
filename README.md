@@ -1,2 +1,5 @@
 # hello-world
-This is my first repository and at this point I have a very little knowledge about repositories.
+
+Hey People,
+
+I'm a coder from India, I know multiple programming languages and have made lots of different projects and applications. I have also worked on web app development.
